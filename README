@@ -1,0 +1,11 @@
+Name: John Stoecker
+Date:4/8/2012
+
+Raxa JSS Hospital Screener Example
+using Sencha Touch 2.0.1
+
+This application is a client-side hospital screening system that
+manages patients and doctors. Users and Doctors are read from 
+files on the server, and manipulated in the local cache. The user 
+is able to add more patients, attach them to a certain doctor, 
+and remove them back into the patient pool. 
